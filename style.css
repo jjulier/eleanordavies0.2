@@ -10,6 +10,11 @@ body{ margin:0;}
   margin: auto;
 }
 
+.contentnarrow{
+  max-width: 600px;
+  margin: auto;
+}
+
 .header{
   float: left;
   width: 100%;
