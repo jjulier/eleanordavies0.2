@@ -139,3 +139,63 @@ a:active {
     text-decoration: none;
     background-color: #00FFFF;
 }
+
+a.one:hover{
+  background-color:#BFBFBF;
+}
+
+a.two:hover{
+  background-color:#FFFFC6;
+}
+
+a.three:hover{
+  background-color:#ACFCF4;
+}
+
+a.four:hover{
+  background-color:#E0C1FF;
+}
+
+a.five:hover{
+  background-color:#ADF7B6;
+}
+
+a.six:hover{
+  background-color:#FA5AD5;
+}
+
+a.seven:hover{
+  background-color:#FAE243;
+}
+
+a.eight:hover{
+  background-color:#7D94FA;
+}
+
+a.nine:hover{
+  background-color:#E3C6F5;
+}
+
+a.ten:hover{
+  background-color:#F59F06;
+}
+
+a.eleven:hover{
+  background-color:#FFEE93;
+}
+
+a.twelve:hover{
+  background-color:#81EFF7;
+}
+
+a.thirteen:hover{
+  background-color:#FC8894;
+}
+
+a.fourteen:hover{
+  background-color:#87FAA2;
+}
+
+a.fifteen:hover{
+  background-color:#CCFF66;
+}
