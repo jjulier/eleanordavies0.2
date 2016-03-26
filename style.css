@@ -4,6 +4,14 @@
 
 body{ margin:0;}
 
+img{
+  margin-bottom: 40px
+}
+
+div{
+  border: 1px solid black;
+}
+
 
 .content{
   max-width: 1100px;
@@ -30,11 +38,11 @@ body{ margin:0;}
   max-width: 800px;
   font: sans-serif 16px 500;
   line-height: 140%;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 .menu{
-  font-size: 43px;
+  font-size: 42px;
   font-weight: normal;
   line-height: 140%;
   padding-top: 110px;
@@ -44,7 +52,7 @@ body{ margin:0;}
     clear: both;
     position: relative;
     z-index: 10;
-    height: 50px;
+    height: 80px;
     margin-top: 10px;
 }
 
@@ -67,6 +75,10 @@ body{ margin:0;}
   font-size: 40px;
 }
 
+img{
+  margin-bottom: 15px;
+}
+
 }
 
 
@@ -78,6 +90,10 @@ body{ margin:0;}
 
 .header{
   padding-top: 0px;
+}
+
+img{
+  margin-bottom: 5px;
 }
 
 }
